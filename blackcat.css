@@ -1,0 +1,48 @@
+body{
+    background-color: rgba(255, 0, 179, 0.836);
+}
+.catphotos{
+    background-color: rgba(205, 208, 255, 0.712);
+    border-radius: 1em;
+    border: 2px solid;
+    padding: 1em;
+    margin: 0.5em;
+    flex: 1;
+}
+.cat-list{
+
+    background-color: aqua;
+    border-radius: 1em;
+    border: 2px solid; 
+    padding: 1em;
+    margin: 0.5em;
+    flex: 1;
+}
+
+.cat-things{
+
+    background-color: aqua;
+    border-radius: 1em;
+    border: 2px solid; 
+    padding: 1em;
+    margin: 0.5em;
+    flex: 1;
+}
+.cat-form{
+
+    background-color: aqua;
+    border-radius: 1em;
+    border: 2px solid; 
+    padding: 1em;
+    margin: 0.5em;
+    flex: 1;
+}
+
+
+
+@media (min-width:960px){
+    .cat{
+        display: flex;
+    }
+}
+
